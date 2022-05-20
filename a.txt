@@ -1,3 +1,5 @@
+Hi there
+
 This was the conflict that I should have fixed
 <<<<<<< HEAD
 // From f branch I put a comment
