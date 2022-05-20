@@ -1,10 +1,21 @@
+Conflicted on purpose
+
+<<<<<<< HEAD
 Hi there
+=======
+>>>>>>> main
 
 This was the conflict that I should have fixed
+
 <<<<<<< HEAD
 // From f branch I put a comment
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> main
 val s = "Hey there";
 // Actually another f branch comment
 print(s);
