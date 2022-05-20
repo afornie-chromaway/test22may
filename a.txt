@@ -1,3 +1,4 @@
 val s = "Hi there!";
+// Some comment in main
 log(s);
 
