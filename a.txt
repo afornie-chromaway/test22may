@@ -1,3 +1,5 @@
-val x = "Hi there";
+// Let's call this a prequel
+val x = "Bye bye";
 log(x);
+// A third line only in main
 
