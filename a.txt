@@ -1,3 +1,4 @@
 val text = "Bye bye";
 print(text);
+// A third line only in main
 
