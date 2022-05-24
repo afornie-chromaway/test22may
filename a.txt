@@ -1,3 +1,3 @@
-val s = "Hi there";
-print(s);
+val string = "Hi there";
+print(string);
 
