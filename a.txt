@@ -1,3 +1,5 @@
+
+// This is looking cool
 val string = "Hi there";
 log(string);
 
